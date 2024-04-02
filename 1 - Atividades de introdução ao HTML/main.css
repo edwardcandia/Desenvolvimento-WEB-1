@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+header {
+    text-align: center;
+    background-color: rgb(102, 102, 102);
+    padding: 3px;
+    box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.24)
+}
+
+nav {
+    text-align: center;
+}
+
+body {
+    background-image: linear-gradient(to bottom, white, rgba(202, 190, 190, 0.356));
+    background-attachment: fixed;
+}
+
+#botao_home {
+    text-align: left;
+    padding: 30px;
+}
+
+button {
+    padding: 100px;
+    text-align: right;
+}
+
+footer{
+    text-align: center;
+    font-weight: bolder;
+}
